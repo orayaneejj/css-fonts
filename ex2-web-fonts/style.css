@@ -1,8 +1,14 @@
 /* Start coding here */
 @font-face {
   font-family: iannnnnCPU2005;
+feature/fontbypo
   src: url("./fonts/2005_iannnnnCPU.ttf");
 }
 body {
+
+  src: url("fonts/2005_iannnnnCPU.ttf");
+}
+* {
+main
   font-family: iannnnnCPU2005;
 }
